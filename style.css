@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.divider{
+    height: 1px;
+    background-color: rgb(107, 114, 128);
+    display: inline-block;
+
+}
+.icon-styles{
+    padding: 3px 1px;
+    margin-right: 86%;
+    background-color: blueviolet;
+
+}
